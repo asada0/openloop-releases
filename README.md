@@ -29,6 +29,16 @@ Openloopハードウェアウォレットのファームウェア。OTAアップ
 - `connect-vX.Y.Z` - Openloop Connect releases
 - `firmware-vX.Y.Z` - Openloop Firmware releases
 
+## Assets
+
+### Openloop Connect Icon (for WalletConnect registration)
+
+![Openloop Connect Icon](assets/openloop-connect-icon.png)
+
+- **URL**: `https://raw.githubusercontent.com/asada0/openloop-releases/main/assets/openloop-connect-icon.png`
+- **Size**: 1024 x 1024 px (PNG, RGBA)
+- **Usage**: WalletConnect / Reown Cloud wallet registration (requires minimum 500x500px)
+
 ## Links
 
 - [Openloop Official Site](https://openloop.vercel.app/)
