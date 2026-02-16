@@ -8,13 +8,14 @@ Openloop製品の公式リリースファイル配布リポジトリです。
 
 Openloopハードウェアウォレット用コンパニオンアプリ。WalletConnect経由でdAppsに接続できます。
 
-| Platform | Download |
-|----------|----------|
-| macOS (Apple Silicon) | [Releases](https://github.com/asada0/openloop-releases/releases) |
-| macOS (Intel) | [Releases](https://github.com/asada0/openloop-releases/releases) |
-| Windows | Coming Soon |
-| iOS | Coming Soon |
-| Android | Coming Soon |
+| Platform | Format | Download |
+|----------|--------|----------|
+| macOS (Apple Silicon) | DMG | [Releases](https://github.com/asada0/openloop-releases/releases) |
+| macOS (Intel) | DMG | [Releases](https://github.com/asada0/openloop-releases/releases) |
+| Windows (64-bit) | EXE | [Releases](https://github.com/asada0/openloop-releases/releases) |
+| Linux (64-bit) | AppImage / DEB | [Releases](https://github.com/asada0/openloop-releases/releases) |
+| iOS | IPA | [Releases](https://github.com/asada0/openloop-releases/releases) |
+| Android | - | Coming Soon |
 
 ### Openloop Firmware
 
@@ -41,8 +42,10 @@ Openloopハードウェアウォレットのファームウェア。OTAアップ
 
 ## Links
 
-- [Openloop Official Site](https://openloop.vercel.app/)
-- [User Manual](https://openloop.vercel.app/Openloop_UserManual_2026_ja.html)
+- [Openloop Information](https://openloop-public.vercel.app/)
+- [User Manual](https://openloop-public.vercel.app/Openloop_UserManual_2026_ja.html)
+- [Product Specification](https://openloop-public.vercel.app/Openloop_ProductSpec_2026.html)
+- [Openloop Connect](https://openloop-public.vercel.app/?page=connect)
 
 ---
 
