@@ -15,7 +15,7 @@ Openloopハードウェアウォレット用コンパニオンアプリ。Wallet
 | Windows (64-bit) | EXE | [Releases](https://github.com/asada0/openloop-releases/releases) |
 | Linux (64-bit) | AppImage / DEB | [Releases](https://github.com/asada0/openloop-releases/releases) |
 | iOS | IPA | [Releases](https://github.com/asada0/openloop-releases/releases) |
-| Android | - | Coming Soon |
+| Android | APK | [Releases](https://github.com/asada0/openloop-releases/releases) |
 
 ### Openloop Firmware
 
